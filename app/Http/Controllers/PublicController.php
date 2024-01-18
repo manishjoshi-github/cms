@@ -11,7 +11,7 @@ class PublicController extends BaseController
     /**
      * Initialize public controller.
      *
-     * @return null
+     * @return null oky
      */
     public function __construct()
     {
